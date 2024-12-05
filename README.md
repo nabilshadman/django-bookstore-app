@@ -6,9 +6,6 @@
 
 A lightweight web application for managing a bookstore's inventory, built with Django. This application provides a dual-interface system with separate frontend for customers and backend for administrators.
 
-![Frontend Preview](demo/bookstore_frontend.jpg)
-![Backend Preview](demo/bookstore_backend.jpg)
-
 ## 🚀 Features
 
 - **Dual Interface System**
@@ -22,6 +19,18 @@ A lightweight web application for managing a bookstore's inventory, built with D
   - Unique book title enforcement
   - Required fields validation
   - Price validation and formatting
+
+## 📸 Screenshots
+<table width="100%">
+<tr>
+<td width="50%"><strong>Customer-Facing Frontend Interface</strong></td>
+<td width="50%"><strong>Administrator Backend Dashboard</strong></td>
+</tr>
+<tr>
+<td><img src="demo/bookstore_frontend.jpg" width="100%"></td>
+<td><img src="demo/bookstore_backend.jpg" width="100%"></td>
+</tr>
+</table>
 
 ## 🛠️ Technology Stack
 
